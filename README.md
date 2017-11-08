@@ -7,6 +7,9 @@
 ## Build Setup
 
 ``` bash
+#clone repo
+git clone https://github.com/code4mk/webpack-react my-new-project
+
 # install dependencies
 npm install
 
