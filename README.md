@@ -6,23 +6,14 @@
 
 ## Build Setup
 
-``` bash
-#clone repo
-git clone https://github.com/code4mk/webpack-react my-new-project
 
-# install dependencies
-npm install
+### cli (best )
 
-or,
+* Easy CLI tool for Mac/Windows/Linux. Just `npm i -g getreact` and run `getreact new`
+* `npm run dev `
 
-yarn install
+* build `num run build`
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
 
 [![code4k](https://img.shields.io/badge/Powered-By-blue.svg)]()
 <a href="https://hellolaravel.org" ><img src="https://img.shields.io/badge/Hello-Laravel-red.svg" >
