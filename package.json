@@ -10,8 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "react": "^16.1.0",
-    "react-dom": "^16.1.0"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
